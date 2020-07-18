@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Karrick/Desktop/homework_4.0/Converters.hpp
+iostream
+-
+data.h
+/Users/Karrick/Desktop/homework_4.0/data.h
+
+/Users/Karrick/Desktop/homework_4.0/data.cpp
+data.h
+/Users/Karrick/Desktop/homework_4.0/data.h
+
+/Users/Karrick/Desktop/homework_4.0/data.h
+iostream
+-
+string
+-
+sstream
+-
+iomanip
+-
+ctime
+-
+Converters.hpp
+/Users/Karrick/Desktop/homework_4.0/Converters.hpp
+cstdio
+-
+
